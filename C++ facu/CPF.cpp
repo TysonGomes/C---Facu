@@ -10,7 +10,7 @@
 int main (){
 	int n[11], i=0 ,s=0,i2=10;
 	for (i=1;i<=9;i++){
-		printf("\ndigite o nro: ");
+		printf("\ndigite o nro:  ");
 		scanf("%d",&n[i-1]);
 	}
 	
